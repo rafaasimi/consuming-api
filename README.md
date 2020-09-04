@@ -24,7 +24,7 @@
 - [X] Show the answer/information on the screen
 
 ## Back-end
-- [X] Serve my backend API with another API [jsonplaceholder](https://jsonplaceholder.typicode.com/)
+- [X] Serve my backend API with another API using [jsonplaceholder](https://jsonplaceholder.typicode.com/) with false data.
 - [X] Use axons
 - [X] Use try/catch
 
