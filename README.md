@@ -41,7 +41,7 @@ This project is using the following technologies:
 ---
 
 ## 🎲 How to use
-		# git clone https://github.com/rafaasimi/consuming-api.git
+		# $ git clone https://github.com/rafaasimi/consuming-api.git
 		# $ cd consuming-api
 		# $ npm install
 		# $ npm start
